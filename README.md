@@ -1,5 +1,7 @@
 # Intro-to-Programming-Final-Project
 
+I created an application to calculate the center of mass for a 2-dimensional plane bounded by polynomial functions.
+
 This project required me to apply the Python skills I learned in throughout the semester in an independent project. The main skills implemented in this project were abstracting code into functions, preventing code repetition with loops, and exception handling.
 
 I also used the optimize and integrate modules within the SciPy module to perform my complex calculations as well as the Matplotlib module to help the user visualize the results. In order to correctly implement these tools into my project, I had to get a good understanding of each tool and how they worked. This requried me to practice reading documentation and improve upon my skills as a developer.
