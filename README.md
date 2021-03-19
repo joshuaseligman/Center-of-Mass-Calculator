@@ -1,4 +1,4 @@
-# Intro-to-Programming-Final-Project
+# Center-of-Mass-Calculator
 
 I created an application to calculate the center of mass for a 2-dimensional plane bounded by polynomial functions.
 
